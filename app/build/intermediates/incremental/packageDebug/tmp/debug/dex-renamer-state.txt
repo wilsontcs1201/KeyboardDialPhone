@@ -1,0 +1,4 @@
+#Tue Nov 13 21:51:44 SGT 2018
+base.0=C\:\\Users\\User\\Desktop\\android-fundamentals-apps-v2-master\\KeyboardDialPhone\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
